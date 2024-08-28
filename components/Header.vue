@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-    <div>Header</div>
+    <div class="Header">Header</div>
 </template>
 
 <style lang='scss'></style>
